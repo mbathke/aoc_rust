@@ -6,3 +6,4 @@ pub fn read_file_str(file_path: &str) -> Result<String, Box<dyn std::error::Erro
 
 pub mod day_one;
 pub mod day_two;
+pub mod day_three;
